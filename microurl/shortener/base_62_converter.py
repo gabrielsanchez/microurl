@@ -1,3 +1,5 @@
+# taken from: https://gist.github.com/bhelx/778542
+
 import math
 import sys
 
